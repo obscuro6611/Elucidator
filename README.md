@@ -1,15 +1,16 @@
 # Elucidator
 
-Turns software repositories into recruiter-friendly evidence reports.
+Transforms software repositories into evidence reports.
 
-Input:
-Repository
+## Features
 
-Output:
-Evidence report describing:
+- Repository analysis
+- README extraction
+- Technology detection
+- Evidence generation
+- Markdown export
+- Desktop GUI
 
-- project purpose
-- technologies
-- architecture
-- skills demonstrated
-- CV claim support
+## Purpose
+
+Help recruiters, clients and collaborators quickly understand what a repository does.
